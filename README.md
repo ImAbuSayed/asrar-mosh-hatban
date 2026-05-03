@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا ليالي الشوق خذيني
+> نار الحب في شراييني
+> بين الصمت والآهات
+> أسرار مش هتبان في سنيني
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
