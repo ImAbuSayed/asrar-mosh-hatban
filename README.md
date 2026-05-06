@@ -13,7 +13,7 @@
 | Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/asrar-mosh-hatban/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Secure Licensing Rights for Asrar Mosh Hatban](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Get License For Asrar Mosh Hatban](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
