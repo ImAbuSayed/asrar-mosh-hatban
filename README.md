@@ -10,9 +10,10 @@
 |-------|---------|
 | Title | Asrar Mosh Hatban |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | April 20, 2026 |
+| Lyric Writing Date | May 03, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/asrar-mosh-hatban/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Asrar Mosh Hatban](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
